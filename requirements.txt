@@ -1,0 +1,49 @@
+# environment
+ipykernel
+
+# Langchain
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+
+
+# Vector Store
+# Vector Store
+chromadb
+unstructured
+# LLM
+openai
+# tokenizer
+tiktoken
+# whisper
+pip install openai-whisper
+pip install torch
+
+# pitch detection
+aubio
+numpy
+matplotlib
+scipy
+
+# audio recording   
+pyaudio
+
+# text to speech
+gTTS
+
+# streamlit
+streamlit
+
+# IPython
+IPython
+IPython.display
+# midi
+midutil
+numpy
+pygame
+# midi to audio
+midi2audio 
+pretty_midi 
+soundfile

@@ -1,0 +1,4 @@
+singer-venv/
+.env
+__pycache__/
+audio_processing/__pycache__/
